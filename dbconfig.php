@@ -1,6 +1,5 @@
 <?php
 
-
 $host     = 'localhost';     // database server (XAMPP default)
 $db       = 'grocery_db';    // the database you created in phpMyAdmin
 $user     = 'root';          // XAMPP default username
