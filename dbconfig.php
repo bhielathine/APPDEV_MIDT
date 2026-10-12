@@ -1,6 +1,5 @@
 <?php
-// dbconfig.php - shared database connection file.
-// Other scripts load it with: require 'dbconfig.php';
+
 
 $host     = 'localhost';     // database server (XAMPP default)
 $db       = 'grocery_db';    // the database you created in phpMyAdmin
